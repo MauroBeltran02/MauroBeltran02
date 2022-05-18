@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MauroBeltran02
+- 👀 I’m interested in learning to program.
+- 🌱 I’m currently learning JavasCript.
+- :p
