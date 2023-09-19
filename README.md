@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MauroBeltran02
-- 🌱 I’m currently learning JavasCript.
-- :p
+
